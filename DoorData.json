@@ -12,7 +12,7 @@
     "RandomCloseSounds": [137397804469667, 112070842791361, 103106224875308],
     "FailAlert": "The door won't budge.",
     "NoKeycardAlert": "A keycard is required to operate this door.",
-    "WrongKeycardAlert": "A keycard level #kl is required to operate this door.",
+    "WrongKeycardAlert": "A keycard with security clearance #kl or higher is required to operate this door.",
     "CorrectAlert": "Access granted.",
     "WrongAlert": "Incorrect code.",
     "KeypadTimeout": 15
