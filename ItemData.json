@@ -7,7 +7,6 @@
       "Range": 20
     }
   },
-
   "Items": {
     "Level 0 Keycard": {
       "Name": "Level 0 Keycard",
@@ -16,20 +15,44 @@
       "ItemBackground": "",
       "ItemBold": true,
       "ItemUnderline": false,
-      "CommandNames": ["Key0", "level 0 key card"],
+      "CommandNames": [
+        "Key0",
+        "level 0 key card"
+      ],
       "MeshId": "430850180",
-      "TextureId": "9209550652",
-      "MeshScale": [0.0018, 0.0018, 0.0018],
-      "MeshOffset": [0, 0, 0],
-      "DropMeshScale": [0.0018, 0.0018, 0.0018],
-      "DropMeshOffset": [0, 0, 0],
+      "TextureId": "97476904386763",
+      "MeshScale": [
+        0.002,
+        0.002,
+        0.002
+      ],
+      "MeshOffset": [
+        0,
+        0,
+        0
+      ],
       "Material": "SmoothPlastic",
-      "Color": [255, 255, 255],
+      "Color": [
+        255,
+        255,
+        255
+      ],
       "InteractionPart": "KeycardDropInteraction",
       "Sound": "GeneralItems",
-      "SpawnedTeams": ["Red"]
+      "SpawnedTeams": [
+        "Red"
+      ],
+      "GripPosition": [
+        0.58,
+        0.01,
+        0
+      ],
+      "GripRotation": [
+        0,
+        0,
+        0
+      ]
     },
-
     "Level 1 Keycard": {
       "Name": "Level 1 Keycard",
       "AlertName": "Level 1 Keycard",
@@ -37,20 +60,42 @@
       "ItemBackground": "",
       "ItemBold": true,
       "ItemUnderline": false,
-      "CommandNames": ["Key1", "level 1 key card"],
+      "CommandNames": [
+        "Key1",
+        "level 1 key card"
+      ],
       "MeshId": "430850180",
-      "TextureId": "9209553182",
-      "MeshScale": [0.0018, 0.0018, 0.0018],
-      "MeshOffset": [0, 0, 0],
-      "DropMeshScale": [0.0018, 0.0018, 0.0018],
-      "DropMeshOffset": [0, 0, 0],
+      "TextureId": "118750579708577",
+      "MeshScale": [
+        0.002,
+        0.002,
+        0.002
+      ],
+      "MeshOffset": [
+        0,
+        0,
+        0
+      ],
       "Material": "SmoothPlastic",
-      "Color": [255, 255, 255],
+      "Color": [
+        255,
+        255,
+        255
+      ],
       "InteractionPart": "KeycardDropInteraction",
       "Sound": "GeneralItems",
-      "SpawnedTeams": []
+      "SpawnedTeams": [],
+      "GripPosition": [
+        0.58,
+        0.01,
+        0
+      ],
+      "GripRotation": [
+        0,
+        0,
+        0
+      ]
     },
-
     "Level 2 Keycard": {
       "Name": "Level 2 Keycard",
       "AlertName": "Level 2 Keycard",
@@ -58,20 +103,42 @@
       "ItemBackground": "",
       "ItemBold": true,
       "ItemUnderline": false,
-      "CommandNames": ["Key2", "level 2 key card"],
+      "CommandNames": [
+        "Key2",
+        "level 2 key card"
+      ],
       "MeshId": "430850180",
-      "TextureId": "9209555752",
-      "MeshScale": [0.0018, 0.0018, 0.0018],
-      "MeshOffset": [0, 0, 0],
-      "DropMeshScale": [0.0018, 0.0018, 0.0018],
-      "DropMeshOffset": [0, 0, 0],
+      "TextureId": "81852326877170",
+      "MeshScale": [
+        0.002,
+        0.002,
+        0.002
+      ],
+      "MeshOffset": [
+        0,
+        0,
+        0
+      ],
       "Material": "SmoothPlastic",
-      "Color": [255, 255, 255],
+      "Color": [
+        255,
+        255,
+        255
+      ],
       "InteractionPart": "KeycardDropInteraction",
       "Sound": "GeneralItems",
-      "SpawnedTeams": []
+      "SpawnedTeams": [],
+      "GripPosition": [
+        0.58,
+        0.01,
+        0
+      ],
+      "GripRotation": [
+        0,
+        0,
+        0
+      ]
     },
-
     "Level 3 Keycard": {
       "Name": "Level 3 Keycard",
       "AlertName": "Level 3 Keycard",
@@ -79,20 +146,42 @@
       "ItemBackground": "",
       "ItemBold": true,
       "ItemUnderline": false,
-      "CommandNames": ["Key3", "level 3 key card"],
+      "CommandNames": [
+        "Key3",
+        "level 3 key card"
+      ],
       "MeshId": "430850180",
-      "TextureId": "9209557023",
-      "MeshScale": [0.0018, 0.0018, 0.0018],
-      "MeshOffset": [0, 0, 0],
-      "DropMeshScale": [0.0018, 0.0018, 0.0018],
-      "DropMeshOffset": [0, 0, 0],
+      "TextureId": "82280082462340",
+      "MeshScale": [
+        0.002,
+        0.002,
+        0.002
+      ],
+      "MeshOffset": [
+        0,
+        0,
+        0
+      ],
       "Material": "SmoothPlastic",
-      "Color": [255, 255, 255],
+      "Color": [
+        255,
+        255,
+        255
+      ],
       "InteractionPart": "KeycardDropInteraction",
       "Sound": "GeneralItems",
-      "SpawnedTeams": []
+      "SpawnedTeams": [],
+      "GripPosition": [
+        0.58,
+        0.01,
+        0
+      ],
+      "GripRotation": [
+        0,
+        0,
+        0
+      ]
     },
-
     "Hacking Device": {
       "Name": "Hacking Device",
       "AlertName": "Hacking Device",
@@ -100,20 +189,45 @@
       "ItemBackground": "",
       "ItemBold": true,
       "ItemUnderline": false,
-      "CommandNames": ["Hack", "Hacker", "Hacking", "HackingDevice", "hacking device"],
+      "CommandNames": [
+        "Hack",
+        "Hacker",
+        "Hacking",
+        "HackingDevice",
+        "hacking device"
+      ],
       "MeshId": "430850180",
       "TextureId": "9209559094",
-      "MeshScale": [0.0018, 0.0018, 0.0018],
-      "MeshOffset": [0, 0, 0],
-      "DropMeshScale": [0.0018, 0.0018, 0.0018],
-      "DropMeshOffset": [0, 0, 0],
+      "MeshScale": [
+        0.002,
+        0.002,
+        0.002
+      ],
+      "MeshOffset": [
+        0,
+        0,
+        0
+      ],
       "Material": "SmoothPlastic",
-      "Color": [255, 255, 255],
+      "Color": [
+        255,
+        255,
+        255
+      ],
       "InteractionPart": "KeycardDropInteraction",
       "Sound": "GeneralItems",
-      "SpawnedTeams": []
+      "SpawnedTeams": [],
+      "GripPosition": [
+        0.58,
+        0.01,
+        0
+      ],
+      "GripRotation": [
+        0,
+        0,
+        0
+      ]
     },
-
     "Level 4 Keycard": {
       "Name": "Level 4 Keycard",
       "AlertName": "Level 4 Keycard",
@@ -121,20 +235,42 @@
       "ItemBackground": "",
       "ItemBold": true,
       "ItemUnderline": false,
-      "CommandNames": ["Key4", "level 4 key card"],
+      "CommandNames": [
+        "Key4",
+        "level 4 key card"
+      ],
       "MeshId": "430850180",
-      "TextureId": "9209559094",
-      "MeshScale": [0.0018, 0.0018, 0.0018],
-      "MeshOffset": [0, 0, 0],
-      "DropMeshScale": [0.0018, 0.0018, 0.0018],
-      "DropMeshOffset": [0, 0, 0],
+      "TextureId": "113966456865337",
+      "MeshScale": [
+        0.002,
+        0.002,
+        0.002
+      ],
+      "MeshOffset": [
+        0,
+        0,
+        0
+      ],
       "Material": "SmoothPlastic",
-      "Color": [255, 255, 255],
+      "Color": [
+        255,
+        255,
+        255
+      ],
       "InteractionPart": "KeycardDropInteraction",
       "Sound": "GeneralItems",
-      "SpawnedTeams": []
+      "SpawnedTeams": [],
+      "GripPosition": [
+        0.58,
+        0.01,
+        0
+      ],
+      "GripRotation": [
+        0,
+        0,
+        0
+      ]
     },
-
     "Level 5 Keycard": {
       "Name": "Level 5 Keycard",
       "AlertName": "Level 5 Keycard",
@@ -142,20 +278,42 @@
       "ItemBackground": "",
       "ItemBold": true,
       "ItemUnderline": false,
-      "CommandNames": ["Key5", "level 5 key card"],
+      "CommandNames": [
+        "Key5",
+        "level 5 key card"
+      ],
       "MeshId": "430850180",
-      "TextureId": "9209560246",
-      "MeshScale": [0.0018, 0.0018, 0.0018],
-      "MeshOffset": [0, 0, 0],
-      "DropMeshScale": [0.0018, 0.0018, 0.0018],
-      "DropMeshOffset": [0, 0, 0],
+      "TextureId": "95364041486185",
+      "MeshScale": [
+        0.002,
+        0.002,
+        0.002
+      ],
+      "MeshOffset": [
+        0,
+        0,
+        0
+      ],
       "Material": "SmoothPlastic",
-      "Color": [255, 255, 255],
+      "Color": [
+        255,
+        255,
+        255
+      ],
       "InteractionPart": "KeycardDropInteraction",
       "Sound": "GeneralItems",
-      "SpawnedTeams": []
+      "SpawnedTeams": [],
+      "GripPosition": [
+        0.58,
+        0.01,
+        0
+      ],
+      "GripRotation": [
+        0,
+        0,
+        0
+      ]
     },
-
     "Omni Keycard": {
       "Name": "Omni Keycard",
       "AlertName": "Omni Keycard",
@@ -163,20 +321,42 @@
       "ItemBackground": "",
       "ItemBold": true,
       "ItemUnderline": false,
-      "CommandNames": ["Key6", "key card omni"],
+      "CommandNames": [
+        "Key6",
+        "key card omni"
+      ],
       "MeshId": "430850180",
-      "TextureId": "9209566433",
-      "MeshScale": [0.0018, 0.0018, 0.0018],
-      "MeshOffset": [0, 0, 0],
-      "DropMeshScale": [0.0018, 0.0018, 0.0018],
-      "DropMeshOffset": [0, 0, 0],
+      "TextureId": "97481686244111",
+      "MeshScale": [
+        0.002,
+        0.002,
+        0.002
+      ],
+      "MeshOffset": [
+        0,
+        0,
+        0
+      ],
       "Material": "SmoothPlastic",
-      "Color": [255, 255, 255],
+      "Color": [
+        255,
+        255,
+        255
+      ],
       "InteractionPart": "KeycardDropInteraction",
       "Sound": "GeneralItems",
-      "SpawnedTeams": []
+      "SpawnedTeams": [],
+      "GripPosition": [
+        0.58,
+        0.01,
+        0
+      ],
+      "GripRotation": [
+        0,
+        0,
+        0
+      ]
     },
-
     "Level 6 Keycard": {
       "Name": "Level 6 Keycard",
       "AlertName": "Level 6 Keycard",
@@ -184,18 +364,55 @@
       "ItemBackground": "",
       "ItemBold": true,
       "ItemUnderline": false,
-      "CommandNames": ["Key6-2", "level 6 key card"],
+      "CommandNames": [
+        "Key6-2",
+        "level 6 key card"
+      ],
       "MeshId": "430850180",
-      "TextureId": "124655360609084",
-      "MeshScale": [0.0018, 0.0018, 0.0018],
-      "MeshOffset": [0, 0, 0],
-      "DropMeshScale": [0.0018, 0.0018, 0.0018],
-      "DropMeshOffset": [0, 0, 0],
+      "TextureId": "124912824448447",
+      "MeshScale": [
+        0.002,
+        0.002,
+        0.002
+      ],
+      "MeshOffset": [
+        0,
+        0,
+        0
+      ],
       "Material": "SmoothPlastic",
-      "Color": [255, 255, 255],
+      "Color": [
+        255,
+        255,
+        255
+      ],
       "InteractionPart": "KeycardDropInteraction",
       "Sound": "GeneralItems",
-      "SpawnedTeams": []
+      "SpawnedTeams": [],
+      "GripPosition": [
+        0.58,
+        0.01,
+        0
+      ],
+      "GripRotation": [
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "Spawners": {
+    "Level 0 Keycard": {
+      "PickupParts": [
+        "InteractionPartTest"
+      ],
+      "Cooldown": 30
+    },
+    "Level 1 Keycard": {
+      "PickupParts": [
+        "MedSpawner"
+      ],
+      "Cooldown": 60
     }
   }
 }
