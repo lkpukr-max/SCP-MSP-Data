@@ -1,0 +1,37 @@
+{
+  "SoundConfig": {
+    "Volume": 0.3,
+    "MaxDistance": 13,
+    "MinDistance": 10
+  },
+
+  "ToolSounds": {
+    "Knife":          { "Equip": 5917819099,  "Unequip": 5917819099,  "Ranged": true },
+    "SMG46":          { "Equip": 3746973755,  "Unequip": 3746973755,  "Ranged": true },
+    "PDW-28":         { "Equip": 3747009598,  "Unequip": 3747009598,  "Ranged": true },
+    "M4":             { "Equip": 3606132387,  "Unequip": 3606132387,  "Ranged": true },
+    "Honey Badger":   { "Equip": 3606132387,  "Unequip": 3606132387,  "Ranged": true },
+    "ACR":            { "Equip": 3606132387,  "Unequip": 3606132387,  "Ranged": true },
+    "M9":             { "Equip": 3606135620,  "Unequip": 3606135620,  "Ranged": true },
+    "Pistol":         { "Equip": 3606135620,  "Unequip": 3606135620,  "Ranged": true },
+
+    "Level 0 Keycard": { "Equip": 1961120060, "Unequip": 1961120060, "Ranged": true },
+    "Level 1 Keycard": { "Equip": 1961120060, "Unequip": 1961120060, "Ranged": true },
+    "Level 2 Keycard": { "Equip": 1961120060, "Unequip": 1961120060, "Ranged": true },
+    "Level 3 Keycard": { "Equip": 1961120060, "Unequip": 1961120060, "Ranged": true },
+    "Level 4 Keycard": { "Equip": 1961120060, "Unequip": 1961120060, "Ranged": true },
+    "Level 5 Keycard": { "Equip": 1961120060, "Unequip": 1961120060, "Ranged": true },
+    "Level 6 Keycard": { "Equip": 1961120060, "Unequip": 1961120060, "Ranged": true },
+    "Omni Keycard":    { "Equip": 1961120060, "Unequip": 1961120060, "Ranged": true },
+    "Hacking Device":  { "Equip": 1961120060, "Unequip": 1961120060, "Ranged": true },
+
+    "Medkit":          { "Equip": 1961120060, "Unequip": 1961120060, "Ranged": true },
+    "Mastercard":      { "Equip": 1961120060, "Unequip": 1961120060, "Ranged": true },
+    "Your ID":         { "Equip": 1961120060, "Unequip": 1961120060, "Ranged": true },
+    "Shield":          { "Equip": 7518444129, "Unequip": 7518444129, "Ranged": true },
+    "Tablet":          { "Equip": 4448964821, "Unequip": 4448964821, "Ranged": true },
+    "Radio":           { "Equip": 6887672613, "Unequip": 2734269544, "Ranged": true },
+    "Wrench":          { "Equip": 9116321027, "Unequip": 9116321027, "Ranged": true },
+    "Clipboard":       { "Equip": 1961120060, "Unequip": 1961120060, "Ranged": true }
+  }
+}
