@@ -37,7 +37,7 @@
         255,
         255
       ],
-      "InteractionPart": "Level0DropPart",
+      "InteractionPart": "Keycard0DropPart",
       "Sound": "GeneralItems",
       "SpawnedTeams": [
         "Red"
@@ -82,7 +82,7 @@
         255,
         255
       ],
-      "InteractionPart": "Level1DropPart",
+      "InteractionPart": "Keycard1DropPart",
       "Sound": "GeneralItems",
       "SpawnedTeams": [],
       "GripPosition": [
@@ -125,7 +125,7 @@
         255,
         255
       ],
-      "InteractionPart": "Level2DropPart",
+      "InteractionPart": "Keycard2DropPart",
       "Sound": "GeneralItems",
       "SpawnedTeams": [],
       "GripPosition": [
@@ -168,7 +168,7 @@
         255,
         255
       ],
-      "InteractionPart": "Level3DropPart",
+      "InteractionPart": "Keycard3DropPart",
       "Sound": "GeneralItems",
       "SpawnedTeams": [],
       "GripPosition": [
@@ -257,7 +257,7 @@
         255,
         255
       ],
-      "InteractionPart": "Level4DropPart",
+      "InteractionPart": "Keycard4DropPart",
       "Sound": "GeneralItems",
       "SpawnedTeams": [],
       "GripPosition": [
@@ -300,7 +300,7 @@
         255,
         255
       ],
-      "InteractionPart": "Level5DropPart",
+      "InteractionPart": "Keycard5DropPart",
       "Sound": "GeneralItems",
       "SpawnedTeams": [],
       "GripPosition": [
@@ -343,7 +343,7 @@
         255,
         255
       ],
-      "InteractionPart": "LevelOmniDropPart",
+      "InteractionPart": "KeycardOmniDropPart",
       "Sound": "GeneralItems",
       "SpawnedTeams": [],
       "GripPosition": [
@@ -386,7 +386,7 @@
         255,
         255
       ],
-      "InteractionPart": "Level6DropPart",
+      "InteractionPart": "Keycard6DropPart",
       "Sound": "GeneralItems",
       "SpawnedTeams": [],
       "GripPosition": [
