@@ -50,7 +50,7 @@
       "GripRotation": [
         -90,
         -180,
-        0
+        90
       ],
       "DropSize": [
         1.05,
